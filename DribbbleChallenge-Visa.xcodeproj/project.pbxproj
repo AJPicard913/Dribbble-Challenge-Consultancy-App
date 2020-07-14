@@ -1,0 +1,585 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		09F54D7524BE2C520036BAE4 /* DribbbleChallenge_VisaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09F54D7424BE2C520036BAE4 /* DribbbleChallenge_VisaApp.swift */; };
+		09F54D7724BE2C520036BAE4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09F54D7624BE2C520036BAE4 /* ContentView.swift */; };
+		09F54D7924BE2C530036BAE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09F54D7824BE2C530036BAE4 /* Assets.xcassets */; };
+		09F54D7C24BE2C530036BAE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09F54D7B24BE2C530036BAE4 /* Preview Assets.xcassets */; };
+		09F54D8724BE2C530036BAE4 /* DribbbleChallenge_VisaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09F54D8624BE2C530036BAE4 /* DribbbleChallenge_VisaTests.swift */; };
+		09F54D9224BE2C530036BAE4 /* DribbbleChallenge_VisaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09F54D9124BE2C530036BAE4 /* DribbbleChallenge_VisaUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		09F54D8324BE2C530036BAE4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 09F54D6924BE2C520036BAE4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 09F54D7024BE2C520036BAE4;
+			remoteInfo = "DribbbleChallenge-Visa";
+		};
+		09F54D8E24BE2C530036BAE4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 09F54D6924BE2C520036BAE4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 09F54D7024BE2C520036BAE4;
+			remoteInfo = "DribbbleChallenge-Visa";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		09F54D7124BE2C520036BAE4 /* DribbbleChallenge-Visa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DribbbleChallenge-Visa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		09F54D7424BE2C520036BAE4 /* DribbbleChallenge_VisaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DribbbleChallenge_VisaApp.swift; sourceTree = "<group>"; };
+		09F54D7624BE2C520036BAE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		09F54D7824BE2C530036BAE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		09F54D7B24BE2C530036BAE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		09F54D7D24BE2C530036BAE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09F54D8224BE2C530036BAE4 /* DribbbleChallenge-VisaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DribbbleChallenge-VisaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		09F54D8624BE2C530036BAE4 /* DribbbleChallenge_VisaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DribbbleChallenge_VisaTests.swift; sourceTree = "<group>"; };
+		09F54D8824BE2C530036BAE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09F54D8D24BE2C530036BAE4 /* DribbbleChallenge-VisaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DribbbleChallenge-VisaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		09F54D9124BE2C530036BAE4 /* DribbbleChallenge_VisaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DribbbleChallenge_VisaUITests.swift; sourceTree = "<group>"; };
+		09F54D9324BE2C530036BAE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		09F54D6E24BE2C520036BAE4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09F54D7F24BE2C530036BAE4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09F54D8A24BE2C530036BAE4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		09F54D6824BE2C520036BAE4 = {
+			isa = PBXGroup;
+			children = (
+				09F54D7324BE2C520036BAE4 /* DribbbleChallenge-Visa */,
+				09F54D8524BE2C530036BAE4 /* DribbbleChallenge-VisaTests */,
+				09F54D9024BE2C530036BAE4 /* DribbbleChallenge-VisaUITests */,
+				09F54D7224BE2C520036BAE4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		09F54D7224BE2C520036BAE4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				09F54D7124BE2C520036BAE4 /* DribbbleChallenge-Visa.app */,
+				09F54D8224BE2C530036BAE4 /* DribbbleChallenge-VisaTests.xctest */,
+				09F54D8D24BE2C530036BAE4 /* DribbbleChallenge-VisaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		09F54D7324BE2C520036BAE4 /* DribbbleChallenge-Visa */ = {
+			isa = PBXGroup;
+			children = (
+				09F54D7424BE2C520036BAE4 /* DribbbleChallenge_VisaApp.swift */,
+				09F54D7624BE2C520036BAE4 /* ContentView.swift */,
+				09F54D7824BE2C530036BAE4 /* Assets.xcassets */,
+				09F54D7D24BE2C530036BAE4 /* Info.plist */,
+				09F54D7A24BE2C530036BAE4 /* Preview Content */,
+			);
+			path = "DribbbleChallenge-Visa";
+			sourceTree = "<group>";
+		};
+		09F54D7A24BE2C530036BAE4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				09F54D7B24BE2C530036BAE4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		09F54D8524BE2C530036BAE4 /* DribbbleChallenge-VisaTests */ = {
+			isa = PBXGroup;
+			children = (
+				09F54D8624BE2C530036BAE4 /* DribbbleChallenge_VisaTests.swift */,
+				09F54D8824BE2C530036BAE4 /* Info.plist */,
+			);
+			path = "DribbbleChallenge-VisaTests";
+			sourceTree = "<group>";
+		};
+		09F54D9024BE2C530036BAE4 /* DribbbleChallenge-VisaUITests */ = {
+			isa = PBXGroup;
+			children = (
+				09F54D9124BE2C530036BAE4 /* DribbbleChallenge_VisaUITests.swift */,
+				09F54D9324BE2C530036BAE4 /* Info.plist */,
+			);
+			path = "DribbbleChallenge-VisaUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		09F54D7024BE2C520036BAE4 /* DribbbleChallenge-Visa */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 09F54D9624BE2C530036BAE4 /* Build configuration list for PBXNativeTarget "DribbbleChallenge-Visa" */;
+			buildPhases = (
+				09F54D6D24BE2C520036BAE4 /* Sources */,
+				09F54D6E24BE2C520036BAE4 /* Frameworks */,
+				09F54D6F24BE2C520036BAE4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DribbbleChallenge-Visa";
+			productName = "DribbbleChallenge-Visa";
+			productReference = 09F54D7124BE2C520036BAE4 /* DribbbleChallenge-Visa.app */;
+			productType = "com.apple.product-type.application";
+		};
+		09F54D8124BE2C530036BAE4 /* DribbbleChallenge-VisaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 09F54D9924BE2C530036BAE4 /* Build configuration list for PBXNativeTarget "DribbbleChallenge-VisaTests" */;
+			buildPhases = (
+				09F54D7E24BE2C530036BAE4 /* Sources */,
+				09F54D7F24BE2C530036BAE4 /* Frameworks */,
+				09F54D8024BE2C530036BAE4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				09F54D8424BE2C530036BAE4 /* PBXTargetDependency */,
+			);
+			name = "DribbbleChallenge-VisaTests";
+			productName = "DribbbleChallenge-VisaTests";
+			productReference = 09F54D8224BE2C530036BAE4 /* DribbbleChallenge-VisaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		09F54D8C24BE2C530036BAE4 /* DribbbleChallenge-VisaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 09F54D9C24BE2C530036BAE4 /* Build configuration list for PBXNativeTarget "DribbbleChallenge-VisaUITests" */;
+			buildPhases = (
+				09F54D8924BE2C530036BAE4 /* Sources */,
+				09F54D8A24BE2C530036BAE4 /* Frameworks */,
+				09F54D8B24BE2C530036BAE4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				09F54D8F24BE2C530036BAE4 /* PBXTargetDependency */,
+			);
+			name = "DribbbleChallenge-VisaUITests";
+			productName = "DribbbleChallenge-VisaUITests";
+			productReference = 09F54D8D24BE2C530036BAE4 /* DribbbleChallenge-VisaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		09F54D6924BE2C520036BAE4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					09F54D7024BE2C520036BAE4 = {
+						CreatedOnToolsVersion = 12.0;
+					};
+					09F54D8124BE2C530036BAE4 = {
+						CreatedOnToolsVersion = 12.0;
+						TestTargetID = 09F54D7024BE2C520036BAE4;
+					};
+					09F54D8C24BE2C530036BAE4 = {
+						CreatedOnToolsVersion = 12.0;
+						TestTargetID = 09F54D7024BE2C520036BAE4;
+					};
+				};
+			};
+			buildConfigurationList = 09F54D6C24BE2C520036BAE4 /* Build configuration list for PBXProject "DribbbleChallenge-Visa" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 09F54D6824BE2C520036BAE4;
+			productRefGroup = 09F54D7224BE2C520036BAE4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				09F54D7024BE2C520036BAE4 /* DribbbleChallenge-Visa */,
+				09F54D8124BE2C530036BAE4 /* DribbbleChallenge-VisaTests */,
+				09F54D8C24BE2C530036BAE4 /* DribbbleChallenge-VisaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		09F54D6F24BE2C520036BAE4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				09F54D7C24BE2C530036BAE4 /* Preview Assets.xcassets in Resources */,
+				09F54D7924BE2C530036BAE4 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09F54D8024BE2C530036BAE4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09F54D8B24BE2C530036BAE4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		09F54D6D24BE2C520036BAE4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				09F54D7724BE2C520036BAE4 /* ContentView.swift in Sources */,
+				09F54D7524BE2C520036BAE4 /* DribbbleChallenge_VisaApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09F54D7E24BE2C530036BAE4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				09F54D8724BE2C530036BAE4 /* DribbbleChallenge_VisaTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09F54D8924BE2C530036BAE4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				09F54D9224BE2C530036BAE4 /* DribbbleChallenge_VisaUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		09F54D8424BE2C530036BAE4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 09F54D7024BE2C520036BAE4 /* DribbbleChallenge-Visa */;
+			targetProxy = 09F54D8324BE2C530036BAE4 /* PBXContainerItemProxy */;
+		};
+		09F54D8F24BE2C530036BAE4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 09F54D7024BE2C520036BAE4 /* DribbbleChallenge-Visa */;
+			targetProxy = 09F54D8E24BE2C530036BAE4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		09F54D9424BE2C530036BAE4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		09F54D9524BE2C530036BAE4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		09F54D9724BE2C530036BAE4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"DribbbleChallenge-Visa/Preview Content\"";
+				DEVELOPMENT_TEAM = 4F95F96C4N;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "DribbbleChallenge-Visa/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "SauceDesigns.DribbbleChallenge-Visa";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		09F54D9824BE2C530036BAE4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"DribbbleChallenge-Visa/Preview Content\"";
+				DEVELOPMENT_TEAM = 4F95F96C4N;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "DribbbleChallenge-Visa/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "SauceDesigns.DribbbleChallenge-Visa";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		09F54D9A24BE2C530036BAE4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4F95F96C4N;
+				INFOPLIST_FILE = "DribbbleChallenge-VisaTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "SauceDesigns.DribbbleChallenge-VisaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DribbbleChallenge-Visa.app/DribbbleChallenge-Visa";
+			};
+			name = Debug;
+		};
+		09F54D9B24BE2C530036BAE4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4F95F96C4N;
+				INFOPLIST_FILE = "DribbbleChallenge-VisaTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "SauceDesigns.DribbbleChallenge-VisaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DribbbleChallenge-Visa.app/DribbbleChallenge-Visa";
+			};
+			name = Release;
+		};
+		09F54D9D24BE2C530036BAE4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4F95F96C4N;
+				INFOPLIST_FILE = "DribbbleChallenge-VisaUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "SauceDesigns.DribbbleChallenge-VisaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "DribbbleChallenge-Visa";
+			};
+			name = Debug;
+		};
+		09F54D9E24BE2C530036BAE4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4F95F96C4N;
+				INFOPLIST_FILE = "DribbbleChallenge-VisaUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "SauceDesigns.DribbbleChallenge-VisaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "DribbbleChallenge-Visa";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		09F54D6C24BE2C520036BAE4 /* Build configuration list for PBXProject "DribbbleChallenge-Visa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				09F54D9424BE2C530036BAE4 /* Debug */,
+				09F54D9524BE2C530036BAE4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		09F54D9624BE2C530036BAE4 /* Build configuration list for PBXNativeTarget "DribbbleChallenge-Visa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				09F54D9724BE2C530036BAE4 /* Debug */,
+				09F54D9824BE2C530036BAE4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		09F54D9924BE2C530036BAE4 /* Build configuration list for PBXNativeTarget "DribbbleChallenge-VisaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				09F54D9A24BE2C530036BAE4 /* Debug */,
+				09F54D9B24BE2C530036BAE4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		09F54D9C24BE2C530036BAE4 /* Build configuration list for PBXNativeTarget "DribbbleChallenge-VisaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				09F54D9D24BE2C530036BAE4 /* Debug */,
+				09F54D9E24BE2C530036BAE4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 09F54D6924BE2C520036BAE4 /* Project object */;
+}
